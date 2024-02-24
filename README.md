@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img height="300" src="./images/01.jpg"  />
+  <img height="200" src="./images/01.jpg"  />
 </div>
 
 ###
@@ -17,7 +17,6 @@
 <h4>I'm a budding frontend developer, currently honing my skills at Swinburne University of Technology. With a passion for creating seamless and dynamic user experiences, I'm on a quest to master the latest in web development, focusing currently on React.</h4>
 
 ---
----
 
 🔭What I'm Focusing On:
   <ul>
@@ -25,16 +24,6 @@
   <li>Collaborating on innovative frontend projects that challenge and grow my skills.</li>
   <li>Seeking guidance and partnership for advanced frontend development techniques.</li>
   </ul>
-
----
----
-    
-    
-<p align="center">
-    <a href="https://twitter.com/pokhrelsan" target="_blank"><img src="https://img.shields.io/twitter/follow/pokhrelsan?logo=twitter&style=for-the-badge" alt="Twitter Follow" /></a>
-    <img src="https://komarev.com/ghpvc/?username=san-pok&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-</p>
-
 ---
 
 🎓 **Education:** Pursuing a degree in Computer Science at Swinburne University of Technology
@@ -56,7 +45,6 @@
 📄 **Resume:** View my [experiences and achievements](#) 
 
 ---
----
 
 ### 🤝 Connect with Me:
 
@@ -69,7 +57,7 @@
 </p>
 
 ---
----
+
 
 ## 💻 Languages and Tools:
 
@@ -81,20 +69,21 @@
 </p>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=san-pok&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-    <img src="https://github-readme-stats.vercel.app/api?username=san-pok&show_icons=true&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=san-pok" alt="GitHub Streak" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=san-pok&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=san-pok&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=san-pok" alt="GitHub Streak" />
 </div>
 
 ---
----
 
-### 🎥 My Top 6 YouTube Videos
-</br>
+
+### 🎥 My Top YouTube Videos
+
 
 [![
     🔥Scholarship for Bsc.CSIT |BCA | BIT |BIM |In Nepali|Video by Santosh Pokhrel  ](https://i.ytimg.com/vi/gtP6wDsTdTo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrn9BNbMMGefVx2RzzxcF4IS8F1w)](https://www.youtube.com/watch?v=gtP6wDsTdTo&t=2s) 
-**Views:** 12000  
+
+   **Views:** 12000  
 
 
 [![
@@ -106,10 +95,7 @@ Some Misconceptions and Myths about IT courses 🔥|BCA|Bsc CSIT |BIT |BIM |BE C
 [![🔥Scholarship for Bsc.CSIT |BCA | BIT |BIM |In Nepali|Video by Santosh Pokhrel](https://i.ytimg.com/vi/nCo1XdxycXo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvDvSIDLJyMpY3uxGpt-ZSqc2Idw)](https://www.youtube.com/watch?v=nCo1XdxycXo)  
 
 **Views:** 10000 
-
-
 ---
-
 Let's build something amazing together. 🚀
 
 
