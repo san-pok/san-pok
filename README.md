@@ -4,7 +4,9 @@
 <h2 align="center">A Dedicated Frontend Developer from Sydney, Australia | Tech Enthusiast | Lifelong Learner</h2>
 <h3 align="center">🌏 Sydney, Australia</h3>
 </hr>
-----------------------------------------------------------------------
+</hr>
+</hr>
+    
 <h4>I'm a budding frontend developer, currently honing my skills at Swinburne University of Technology. With a passion for creating seamless and dynamic user experiences, I'm on a quest to master the latest in web development, focusing currently on React.</h4>
 
 🔭<h4> What I'm Focusing On:</h4>
@@ -41,7 +43,7 @@
 
 📫 **Reach Out:** [santoshs.pokhrel@gmail.com](mailto:santoshs.pokhrel@gmail.com)
 
-📄 **Resume:** View my [experiences and achievements](#) (link to your resume)
+📄 **Resume:** View my [experiences and achievements](#) 
 
 ### 🤝 Connect with Me:
 
@@ -65,13 +67,23 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=san-pok" alt="GitHub Streak" />
 </div>
 </hr>
+</hr>
 ### 🎥 My Top 6 YouTube Videos
-
+</br>
 [![🔥Scholarship for Bsc.CSIT |BCA | BIT |BIM |In Nepali|Video by Santosh Pokhrel](https://i.ytimg.com/vi/gtP6wDsTdTo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrn9BNbMMGefVx2RzzxcF4IS8F1w)](https://www.youtube.com/watch?v=gtP6wDsTdTo&t=1s)  
+
 **Views:** 12000  
 
 
+[![
+Some Misconceptions and Myths about IT courses 🔥|BCA|Bsc CSIT |BIT |BIM |BE Computer |🔥 ](https://i.ytimg.com/vi/ZokpZ-QAN0M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDYihR8U7_-y0T48p7TMbr4zaigMg)](https://www.youtube.com/watch?v=ZokpZ-QAN0M)  
 
+**Views:** 3500  
+
+
+[![🔥Scholarship for Bsc.CSIT |BCA | BIT |BIM |In Nepali|Video by Santosh Pokhrel](https://i.ytimg.com/vi/nCo1XdxycXo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvDvSIDLJyMpY3uxGpt-ZSqc2Idw)](https://www.youtube.com/watch?v=nCo1XdxycXo)  
+
+**Views:** 10000 
 
 
 ---
