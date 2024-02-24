@@ -11,8 +11,7 @@
 </div>
 
 ###
----
----
+***
     
 <h4>I'm a budding frontend developer, currently honing my skills at Swinburne University of Technology. With a passion for creating seamless and dynamic user experiences, I'm on a quest to master the latest in web development, focusing currently on React.</h4>
 
@@ -24,15 +23,14 @@
   <li>Collaborating on innovative frontend projects that challenge and grow my skills.</li>
   <li>Seeking guidance and partnership for advanced frontend development techniques.</li>
   </ul>
----
+***
 
 🎓 **Education:** Pursuing a degree in Computer Science at Swinburne University of Technology
 
 🌱 **Currently Learning:** React.js and advanced frontend development techniques
 
-👨‍💻 **Projects:** Explore my work [here](#) (link to your projects)
-
-📝 **Blogging:** I share insights and tutorials on [my blog](#) (link to your blog)
+👨‍💻 **Projects:** Explore my work [here](#)
+📝 **Blogging:** I share insights and tutorials on [my blog](#) 
 
 💼 **Open for Collaboration:** Interested in contributing to frontend projects, especially those focused on React.js and modern JavaScript frameworks
 
@@ -44,7 +42,7 @@
 
 📄 **Resume:** View my [experiences and achievements](#) 
 
----
+***
 
 ### 🤝 Connect with Me:
 
@@ -56,7 +54,7 @@
     <a href="https://www.youtube.com/c/santoshpokhrel" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="santoshpokhrel" height="30" width="40" /></a>
 </p>
 
----
+***
 
 
 ## 💻 Languages and Tools:
@@ -74,7 +72,7 @@
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=san-pok" alt="GitHub Streak" />
 </div>
 
----
+***
 
 
 ### 🎥 My Top YouTube Videos
