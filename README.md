@@ -29,8 +29,8 @@
 
 🌱 **Currently Learning:** React.js and advanced frontend development techniques
 
-👨‍💻 **Projects:** Explore my work [here](#)
-📝 **Blogging:** I share insights and tutorials on [my blog](#) 
+👨‍💻 **Projects:** Explore my work [here](https://santoshpokhrel.com/portfolio/)
+📝 **Blogging:** I share insights and tutorials on [my blog](https://santoshpokhrel.com/) 
 
 💼 **Open for Collaboration:** Interested in contributing to frontend projects, especially those focused on React.js and modern JavaScript frameworks
 
@@ -40,7 +40,7 @@
 
 📫 **Reach Out:** [santoshs.pokhrel@gmail.com](mailto:santoshs.pokhrel@gmail.com)
 
-📄 **Resume:** View my [experiences and achievements](#) 
+📄 **Resume:** View my [experiences and achievements](https://santoshpokhrel.com/) 
 
 ***
 
