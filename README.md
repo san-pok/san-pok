@@ -56,6 +56,11 @@
 
 ***
 
+## My Book
+
+[![WENT TOO FAR](./images/book_cover.jpg)](https://www.amazon.com.au/Went-Too-Far-Journey-Unspoken/dp/B0CSTCY6ZF/ref=sr_1_1?crid=115GY0K5K5X64&dib=eyJ2IjoiMSJ9.dhtWMKN-EDxMSnadcHVV_XNmtr5mJNNToas9TWJtDRd9JF5C3EK3fO_WdlPiWU2t0htoSue5RMBaetjOkYpP8shPpv9-YICMCiV4RNDthCahgDzeyqNbvR8SIh9YDWCwkznfhtNicesqy2y9FYgM2Hsh9Zr9iywFe5vEZEhWWdPvJNdvGa9Tw8UHblTjKYC0S8Dmq2EgQY7Sb6mL0o5TQYBppyuciA2TjgNre90qiyEeU8lAarcePakXYZwnZe1kavMzLQYKHkRGJatZOkMFvkoTEDIlVWs_cL4UEb8jLbk.2nNMpqrVtcQm3CgZt1CTg_AMuPBGnMk_LcbTM1v5OJY&dib_tag=se&keywords=went+too+far&qid=1712128192&sprefix=went+too+far%2Caps%2C367&sr=8-1)
+
+A brief description of your book goes here. This can be an overview of the content, what readers can expect to learn or feel, and why it might be of interest.
 
 ## 💻 Languages and Tools:
 
